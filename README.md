@@ -1,3 +1,2 @@
 # Alexey Matveev
-Format: ![Image] (https://github.com/MatveevAlexy/cpp_hello_world/blob/master/screenshot.jpg?raw=true)
-Format: ![https://github.com/MatveevAlexy/cpp_hello_world/blob/master/screenshot.jpg?raw=true](url)
+![image](https://user-images.githubusercontent.com/18362362/137596115-2f1b4a35-20fc-4af6-92ac-22e369e92056.png)
